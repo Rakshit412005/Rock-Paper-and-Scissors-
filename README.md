@@ -13,6 +13,6 @@ Responsive Design: Enjoy the game on any device, whether it's a desktop, tablet,
 🛠️ Technologies Used
 HTML: For structuring the game layout.
 CSS: For styling the game interface and ensuring it is responsive.
-JavaScript: For the game logic, including randomizing computer choices and determining the game outcome.
+JavaScript: For the game logic, including randomizing computer choices and determining the game outcome..
 
 If you have any questions or suggestions, feel free to contact me at rk1056@srmist.edu.in 
