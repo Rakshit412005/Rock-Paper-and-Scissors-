@@ -15,4 +15,4 @@ HTML: For structuring the game layout.
 CSS: For styling the game interface and ensuring it is responsive.
 JavaScript: For the game logic, including randomizing computer choices and determining the game outcome.
 
-If you have any questions or suggestions, feel free to contact me at rk1056@srmist.edu.in 
+If you have any questions or suggestions, feel free to contact me at rakshitkumar0401@gmail.com
