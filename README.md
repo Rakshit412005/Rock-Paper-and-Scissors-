@@ -10,7 +10,7 @@ Interactive Gameplay: Choose between Rock, Paper, or Scissors to compete against
 Real-time Results: Instantly see who wins each round—Player or Computer.
 Score Tracking: Keep track of your wins, losses, and ties.
 Responsive Design: Enjoy the game on any device, whether it's a desktop, tablet, or mobile.
-🛠️ Technologies Used
+# Technologies Used
 HTML: For structuring the game layout.
 CSS: For styling the game interface and ensuring it is responsive.
 JavaScript: For the game logic, including randomizing computer choices and determining the game outcome.
